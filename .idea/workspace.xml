@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37e811c6-8f6d-43b5-8b42-3f27c53d3883" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/client/java/fr/koi/constants/ModConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/koi/constants/ModConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/koi/items/ModItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/my-first-mod/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/my-first-mod/models/item/suspicious_substance.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/my-first-mod/textures/item/my_first_item.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/java/com/example/TemplateModClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/java/fr/koi/ModClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/java/com/example/mixin/client/ExampleClientMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/java/fr/koi/mixin/client/ExampleClientMixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client/resources/template-mod.client.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/resources/template-mod.client.mixins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/TemplateMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/koi/Mod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/TemplateModDataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/koi/ModDataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mixin/ExampleMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/koi/mixin/ExampleMixin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/template-mod/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/my-first-mod/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/template-mod.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/template-mod.mixins.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="template-mod-template-1.21.1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="template-mod-template-1.21.1" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kgT8ORZRr04je0ha1Us6UJwFCu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Data Generation.executor": "Run",
+    "Application.Minecraft Client.executor": "Run",
+    "Application.Minecraft Server.executor": "Run",
+    "Gradle.Build template-mod-template-1.21.1.executor": "Run",
+    "Gradle.template-mod-template-1.21.1 [build].executor": "Run",
+    "Gradle.template-mod-template-1.21.1 [genSources].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/dany/lab/games/minecraft/template-mod-template-1.21.1/src/main/resources/assets/my-first-mod/textures/item",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/my-first-mod/textures/item" />
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/my-first-mod/models/item" />
+      <recent name="$PROJECT_DIR$/src/client/java/fr/koi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/assets/my-first-mod/textures/item" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Minecraft Client" />
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37e811c6-8f6d-43b5-8b42-3f27c53d3883" name="Changes" comment="" />
+      <created>1723704060530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723704060530</updated>
+      <workItem from="1723704061204" duration="516000" />
+      <workItem from="1723704585936" duration="4625000" />
+      <workItem from="1723723899492" duration="3749000" />
+      <workItem from="1723742152469" duration="2661000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1723721887711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723721887711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
