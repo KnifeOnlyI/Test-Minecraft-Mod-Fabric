@@ -1,5 +1,6 @@
 package fr.koi;
 
+import fr.koi.blocks.ModBlocks;
 import fr.koi.constants.ModConstants;
 import fr.koi.items.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -21,5 +22,6 @@ public class Mod implements ModInitializer {
 		LOGGER.info("Hello Fabric world!");
 
         ModItems.initialize();
+        ModBlocks.initialize();
 	}
 }
